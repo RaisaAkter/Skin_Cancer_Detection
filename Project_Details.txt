@@ -1,0 +1,1 @@
+Name: Skin Cancer Detection
